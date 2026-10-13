@@ -9,6 +9,11 @@ dist/
 web-build/
 expo-env.d.ts
 
+# IDE & AI Assistant
+.claude/
+.vscode/
+.idea/
+
 # Native
 .kotlin/
 *.orig.*
